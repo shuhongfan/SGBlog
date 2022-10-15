@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SGBlog.iml" filepath="$PROJECT_DIR$/SGBlog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sangeng-admin/sangeng-admin.iml" filepath="$PROJECT_DIR$/sangeng-admin/sangeng-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sangeng-blog/sangeng-blog.iml" filepath="$PROJECT_DIR$/sangeng-blog/sangeng-blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sangeng-framework/sangeng-framework.iml" filepath="$PROJECT_DIR$/sangeng-framework/sangeng-framework.iml" />
     </modules>
   </component>
 </project>

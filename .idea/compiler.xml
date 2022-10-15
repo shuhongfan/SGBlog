@@ -3,6 +3,20 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sangeng-framework" />
+        <module name="sangeng-blog" />
+        <module name="sangeng-admin" />
+      </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sangeng-admin" target="1.8" />
+      <module name="sangeng-blog" target="1.8" />
+      <module name="sangeng-framework" target="1.8" />
+      <module name="SGBlog" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
